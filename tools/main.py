@@ -16,8 +16,8 @@ except Exception:
     PlyData = None
 
 # ---------- FIXED PATHS ----------
-INPUT_ROOT  = "/nas/data/araake/scenefun3d/original"
-OUTPUT_ROOT = "/nas/data/araake/scenefun3d/openscene/data"
+INPUT_ROOT  = "/work/jh250029/n19000/araake/Dataset/original/scenefun3d"
+OUTPUT_ROOT = "/work/jh250029/n19000/araake/Dataset/processed/scenefun3d"
 
 SCANNET_2D = os.path.join(OUTPUT_ROOT, "scannet_2d")
 SCANNET_3D = os.path.join(OUTPUT_ROOT, "scannet_3d")
@@ -375,7 +375,7 @@ def process_single_scene(visit_id: int, video_id: int, scene_name: str, split: s
     try: traj = load_traj_w2c(traj_in)
     except Exception as e:
         error(f"failed to load traj: {traj_in} ({e})")
-        update_scene_mapping(scene_name, split, visit_id, video_id, len(src_colors), len(src_depths), 0, intr_for_mapping, status="skipped_traj"); return
+        update_scene_mapping(scene_name, split, visit_id, video_id, len(src_colors), len(dst_depths), 0, intr_for_mapping, status="skipped_traj"); return
     n_pose = min(len(traj), len(src_colors))
     ensure_dir(pose_out); checkpoints = {int(n_pose*s/2) for s in range(3)}
     for i in range(n_pose):
@@ -384,10 +384,10 @@ def process_single_scene(visit_id: int, video_id: int, scene_name: str, split: s
         if i in checkpoints:
             pct = int(100 * (i / max(1, n_pose-1))); info(f"Pose export: {pct}%")
 
-    # 3D export — FIX: ラベルは「元点群長」で作ってから、同じマスクで切る
+    # 3D export — labels are built on ORIGINAL length then masked identically
     coords_full, rgb_full = try_read_ply_xyzrgb(vscan)
     if coords_full is None:
-        update_scene_mapping(scene_name, split, visit_id, video_id, len(src_colors), len(src_depths), n_pose, intr_for_mapping, status="skipped_ply"); return
+        update_scene_mapping(scene_name, split, visit_id, video_id, len(src_colors), len(dst_depths), n_pose, intr_for_mapping, status="skipped_ply"); return
     N_full = coords_full.shape[0]
     labels_full = build_labels_from_annotations(N_full, vanno)
 
@@ -409,31 +409,37 @@ def process_single_scene(visit_id: int, video_id: int, scene_name: str, split: s
         rgb   = (rgb_full[mask] if rgb_full is not None else None)
         labels= labels_full[mask]
 
-    # save 3D
+    # ---------- save 3D (EXACT same tuple format) ----------
     out_3d_base = os.path.join(SCANNET_3D, split, f"{scene_name}")
     ensure_dir(os.path.dirname(out_3d_base))
+
+    # features: RGB->[−1,1]（0-255 または 0-1 の双方に対応）
+    feat = (np.zeros((coords.shape[0], 3), np.float32)
+            if rgb is None
+            else ((rgb.astype(np.float32) / (255.0 if rgb.max() > 1.5 else 1.0)) * 2 - 1))
+
+    tuple_obj = (
+        coords.astype(np.float32),   # (N,3)
+        feat.astype(np.float32),     # (N,3)
+        labels.astype(np.int32),     # (N,)
+    )
+
     if torch is not None:
         try:
-            feat = np.zeros((coords.shape[0],3), np.float32) if rgb is None else ((rgb.astype(np.float32)/(255.0 if rgb.max()>1.5 else 1.0))*2-1)
-            obj = {
-                "coords": torch.from_numpy(coords.astype(np.float32)),
-                "feat":   torch.from_numpy(feat.astype(np.float32)),
-                "label":  torch.from_numpy(labels.astype(np.int32)),
-            }
-            torch.save(obj, out_3d_base + ".pth")
-            info(f"3D export: coords={coords.shape[0]} pts -> {out_3d_base+'.pth'}")
+            torch.save(tuple_obj, out_3d_base + ".pth")
+            info(f"3D export: coords={coords.shape[0]} pts -> {out_3d_base+'.pth'} (tuple[np,np,np])")
         except Exception as e:
             error(f"failed to save .pth: {out_3d_base+'.pth'} ({e})")
     else:
-        # フォールバック: .npz
-        feat = np.zeros((coords.shape[0],3), np.float32) if rgb is None else ((rgb.astype(np.float32)/(255.0 if rgb.max()>1.5 else 1.0))*2-1)
-        np.savez_compressed(out_3d_base + ".npz", coords=coords.astype(np.float32), feat=feat.astype(np.float32), label=labels.astype(np.int32))
+        # フォールバック: .npz（内容は同じ配列）
+        np.savez_compressed(out_3d_base + ".npz",
+                            coords=tuple_obj[0], feat=tuple_obj[1], label=tuple_obj[2])
         warn(f"torch not available; wrote {out_3d_base+'.npz'} instead of .pth")
 
     # splits & mapping
     append_split_file(scene_name, split)
     update_scene_mapping(scene_name, split, visit_id, video_id,
-                         len(src_colors), len(src_depths), n_pose,
+                         len(src_colors), len(dst_depths), n_pose,
                          intr_for_mapping, status="ok")
     done(scene_name)
 
