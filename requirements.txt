@@ -1,0 +1,11 @@
+numpy
+pandas
+open3d
+plyfile
+imageio
+opencv-python
+moviepy>=2.0.0
+scipy
+tqdm
+tyro
+viser

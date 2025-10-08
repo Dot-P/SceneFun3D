@@ -1,0 +1,4835 @@
+nohup: 入力を無視します
+[INFO] Start OpenScene export
+[INFO] Input=/nas/data/araake/scenefun3d/original  Output=/nas/data/araake/scenefun3d/openscene/data
+[INFO] Mode=ALL
+[INFO] Scene scene0000_00 (visit=420673, video=42445198) split=train
+[INFO] Frames: RGB=1041 depth=1041 intr=1041 -> use 1041 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6010016 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0000_00.pth
+[DONE] scene0000_00
+[INFO] Scene scene0001_00 (visit=420683, video=42445137) split=train
+[INFO] Frames: RGB=814 depth=814 intr=814 -> use 814 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2836109 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0001_00.pth
+[DONE] scene0001_00
+[INFO] Scene scene0002_00 (visit=420693, video=42445173) split=train
+[INFO] Frames: RGB=1623 depth=1623 intr=1623 -> use 1623 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=8658574 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0002_00.pth
+[DONE] scene0002_00
+[INFO] Scene scene0003_00 (visit=421002, video=42444873) split=train
+[INFO] Frames: RGB=851 depth=851 intr=851 -> use 851 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6316947 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0003_00.pth
+[DONE] scene0003_00
+[INFO] Scene scene0004_00 (visit=421005, video=42444719) split=train
+[INFO] Frames: RGB=837 depth=837 intr=837 -> use 837 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3212925 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0004_00.pth
+[DONE] scene0004_00
+[INFO] Scene scene0005_00 (visit=421010, video=42444709) split=train
+[INFO] Frames: RGB=393 depth=393 intr=393 -> use 393 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4393600 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0005_00.pth
+[DONE] scene0005_00
+[INFO] Scene scene0006_00 (visit=421013, video=42444703) split=train
+[INFO] Frames: RGB=466 depth=466 intr=466 -> use 466 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3455070 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0006_00.pth
+[DONE] scene0006_00
+[INFO] Scene scene0007_00 (visit=421015, video=42444789) split=train
+[INFO] Frames: RGB=1101 depth=1101 intr=1101 -> use 1101 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7953728 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0007_00.pth
+[DONE] scene0007_00
+[INFO] Scene scene0008_00 (visit=421061, video=42444514) split=train
+[INFO] Frames: RGB=688 depth=688 intr=688 -> use 688 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1966804 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0008_00.pth
+[DONE] scene0008_00
+[INFO] Scene scene0009_00 (visit=421063, video=42444513) split=train
+[INFO] Frames: RGB=678 depth=678 intr=678 -> use 678 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2494823 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0009_00.pth
+[DONE] scene0009_00
+[INFO] Scene scene0010_00 (visit=421065, video=42444503) split=train
+[INFO] Frames: RGB=285 depth=285 intr=285 -> use 285 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3457312 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0010_00.pth
+[DONE] scene0010_00
+[INFO] Scene scene0011_00 (visit=421069, video=42444490) split=train
+[INFO] Frames: RGB=1025 depth=1025 intr=1025 -> use 1025 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7921109 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0011_00.pth
+[DONE] scene0011_00
+[INFO] Scene scene0012_00 (visit=421254, video=42444755) split=val
+[INFO] Frames: RGB=588 depth=588 intr=588 -> use 588 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2546020 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0012_00.pth
+[DONE] scene0012_00
+[INFO] Scene scene0013_00 (visit=421264, video=42444887) split=train
+[INFO] Frames: RGB=695 depth=695 intr=695 -> use 695 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2011218 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0013_00.pth
+[DONE] scene0013_00
+[INFO] Scene scene0014_00 (visit=421267, video=42444733) split=train
+[INFO] Frames: RGB=623 depth=623 intr=623 -> use 623 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4348198 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0014_00.pth
+[DONE] scene0014_00
+[INFO] Scene scene0015_00 (visit=421379, video=42445479) split=train
+[INFO] Frames: RGB=135 depth=135 intr=135 -> use 135 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3206676 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0015_00.pth
+[DONE] scene0015_00
+[INFO] Scene scene0016_00 (visit=421386, video=42445445) split=train
+[INFO] Frames: RGB=134 depth=134 intr=134 -> use 134 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4194445 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0016_00.pth
+[DONE] scene0016_00
+[INFO] Scene scene0017_00 (visit=421391, video=42445428) split=train
+[INFO] Frames: RGB=266 depth=266 intr=266 -> use 266 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3934837 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0017_00.pth
+[DONE] scene0017_00
+[INFO] Scene scene0018_00 (visit=421393, video=42444924) split=val
+[INFO] Frames: RGB=727 depth=727 intr=727 -> use 727 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2136108 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0018_00.pth
+[DONE] scene0018_00
+[INFO] Scene scene0019_00 (visit=421397, video=42444916) split=train
+[INFO] Frames: RGB=478 depth=478 intr=478 -> use 478 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1632416 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0019_00.pth
+[DONE] scene0019_00
+[INFO] Scene scene0020_00 (visit=421593, video=42445745) split=train
+[INFO] Frames: RGB=362 depth=362 intr=362 -> use 362 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6470084 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0020_00.pth
+[DONE] scene0020_00
+[INFO] Scene scene0021_00 (visit=421602, video=42445599) split=train
+[INFO] Frames: RGB=1070 depth=1070 intr=1070 -> use 1070 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3682012 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0021_00.pth
+[DONE] scene0021_00
+[INFO] Scene scene0022_00 (visit=421628, video=42445587) split=train
+[INFO] Frames: RGB=1333 depth=1333 intr=1333 -> use 1333 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2140309 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0022_00.pth
+[DONE] scene0022_00
+[INFO] Scene scene0023_00 (visit=421647, video=42445078) split=train
+[INFO] Frames: RGB=545 depth=545 intr=545 -> use 545 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3096692 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0023_00.pth
+[DONE] scene0023_00
+[INFO] Scene scene0024_00 (visit=421654, video=42445788) split=train
+[INFO] Frames: RGB=551 depth=551 intr=551 -> use 551 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2544064 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0024_00.pth
+[DONE] scene0024_00
+[INFO] Scene scene0025_00 (visit=421657, video=42445639) split=val
+[INFO] Frames: RGB=599 depth=599 intr=599 -> use 599 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2757049 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0025_00.pth
+[DONE] scene0025_00
+[INFO] Scene scene0026_00 (visit=421658, video=42445769) split=train
+[INFO] Frames: RGB=614 depth=614 intr=614 -> use 614 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2467113 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0026_00.pth
+[DONE] scene0026_00
+[INFO] Scene scene0027_00 (visit=421853, video=42445502) split=train
+[INFO] Frames: RGB=379 depth=379 intr=379 -> use 379 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6546827 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0027_00.pth
+[DONE] scene0027_00
+[INFO] Scene scene0028_00 (visit=421948, video=42446080) split=train
+[INFO] Frames: RGB=446 depth=446 intr=446 -> use 446 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1913967 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0028_00.pth
+[DONE] scene0028_00
+[INFO] Scene scene0029_00 (visit=422006, video=42446031) split=train
+[INFO] Frames: RGB=623 depth=623 intr=623 -> use 623 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3667857 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0029_00.pth
+[DONE] scene0029_00
+[INFO] Scene scene0030_00 (visit=422007, video=42446017) split=train
+[INFO] Frames: RGB=433 depth=433 intr=433 -> use 433 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3345231 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0030_00.pth
+[DONE] scene0030_00
+[INFO] Scene scene0031_00 (visit=422009, video=42445888) split=train
+[INFO] Frames: RGB=145 depth=145 intr=145 -> use 145 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1327503 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0031_00.pth
+[DONE] scene0031_00
+[INFO] Scene scene0032_00 (visit=422011, video=42445987) split=train
+[INFO] Frames: RGB=342 depth=342 intr=342 -> use 342 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5181468 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0032_00.pth
+[DONE] scene0032_00
+[INFO] Scene scene0033_00 (visit=422134, video=42445716) split=train
+[INFO] Frames: RGB=852 depth=852 intr=852 -> use 852 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5213200 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0033_00.pth
+[DONE] scene0033_00
+[INFO] Scene scene0034_00 (visit=422148, video=42445692) split=train
+[INFO] Frames: RGB=803 depth=803 intr=803 -> use 803 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=8060865 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0034_00.pth
+[DONE] scene0034_00
+[INFO] Scene scene0035_00 (visit=422155, video=42445680) split=train
+[INFO] Frames: RGB=1705 depth=1705 intr=1705 -> use 1705 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=13108184 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0035_00.pth
+[DONE] scene0035_00
+[INFO] Scene scene0036_00 (visit=422182, video=42445804) split=train
+[INFO] Frames: RGB=327 depth=327 intr=327 -> use 327 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3656296 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0036_00.pth
+[DONE] scene0036_00
+[INFO] Scene scene0037_00 (visit=422195, video=42445790) split=train
+[INFO] Frames: RGB=378 depth=378 intr=378 -> use 378 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2995082 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0037_00.pth
+[DONE] scene0037_00
+[INFO] Scene scene0038_00 (visit=422200, video=42445100) split=train
+[INFO] Frames: RGB=489 depth=489 intr=489 -> use 489 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2921820 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0038_00.pth
+[DONE] scene0038_00
+[INFO] Scene scene0039_00 (visit=422203, video=42445783) split=train
+[INFO] Frames: RGB=337 depth=337 intr=337 -> use 337 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2285864 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0039_00.pth
+[DONE] scene0039_00
+[INFO] Scene scene0040_00 (visit=422323, video=42446608) split=train
+[INFO] Frames: RGB=627 depth=627 intr=627 -> use 627 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3044033 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0040_00.pth
+[DONE] scene0040_00
+[INFO] Scene scene0041_00 (visit=422354, video=42897633) split=train
+[INFO] Frames: RGB=205 depth=205 intr=205 -> use 205 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4608160 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0041_00.pth
+[DONE] scene0041_00
+[INFO] Scene scene0042_00 (visit=422356, video=42446579) split=val
+[INFO] Frames: RGB=788 depth=788 intr=788 -> use 788 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4185789 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0042_00.pth
+[DONE] scene0042_00
+[INFO] Scene scene0043_00 (visit=422377, video=42447329) split=train
+[INFO] Frames: RGB=2243 depth=2243 intr=2243 -> use 2243 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2191262 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0043_00.pth
+[DONE] scene0043_00
+[INFO] Scene scene0044_00 (visit=422378, video=42447307) split=train
+[INFO] Frames: RGB=2118 depth=2118 intr=2118 -> use 2118 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2814948 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0044_00.pth
+[DONE] scene0044_00
+[INFO] Scene scene0045_00 (visit=422383, video=42447294) split=train
+[INFO] Frames: RGB=2135 depth=2135 intr=2135 -> use 2135 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4163489 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0045_00.pth
+[DONE] scene0045_00
+[INFO] Scene scene0046_00 (visit=422384, video=42446607) split=train
+[INFO] Frames: RGB=977 depth=977 intr=977 -> use 977 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6697482 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0046_00.pth
+[DONE] scene0046_00
+[INFO] Scene scene0047_00 (visit=422516, video=42446495) split=train
+[INFO] Frames: RGB=1679 depth=1679 intr=1679 -> use 1679 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2305872 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0047_00.pth
+[DONE] scene0047_00
+[INFO] Scene scene0048_00 (visit=422521, video=42446061) split=train
+[INFO] Frames: RGB=578 depth=578 intr=578 -> use 578 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2694198 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0048_00.pth
+[DONE] scene0048_00
+[INFO] Scene scene0049_00 (visit=422523, video=42446468) split=train
+[INFO] Frames: RGB=527 depth=527 intr=527 -> use 527 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2505657 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0049_00.pth
+[DONE] scene0049_00
+[INFO] Scene scene0050_00 (visit=422535, video=42446048) split=train
+[INFO] Frames: RGB=484 depth=484 intr=484 -> use 484 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5205622 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0050_00.pth
+[DONE] scene0050_00
+[INFO] Scene scene0051_00 (visit=422539, video=42445938) split=train
+[INFO] Frames: RGB=393 depth=393 intr=393 -> use 393 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=9749423 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0051_00.pth
+[DONE] scene0051_00
+[INFO] Scene scene0052_00 (visit=422546, video=42446159) split=train
+[INFO] Frames: RGB=774 depth=774 intr=774 -> use 774 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2950009 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0052_00.pth
+[DONE] scene0052_00
+[INFO] Scene scene0053_00 (visit=422838, video=42897675) split=train
+[INFO] Frames: RGB=665 depth=665 intr=665 -> use 665 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2703314 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0053_00.pth
+[DONE] scene0053_00
+[INFO] Scene scene0054_00 (visit=422842, video=42897547) split=val
+[INFO] Frames: RGB=1831 depth=1831 intr=1831 -> use 1831 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5499923 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0054_00.pth
+[DONE] scene0054_00
+[INFO] Scene scene0055_00 (visit=422847, video=42897512) split=train
+[INFO] Frames: RGB=3123 depth=3123 intr=3123 -> use 3123 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5927127 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0055_00.pth
+[DONE] scene0055_00
+[INFO] Scene scene0056_00 (visit=423070, video=42447202) split=val
+[INFO] Frames: RGB=964 depth=964 intr=964 -> use 964 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3755065 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0056_00.pth
+[DONE] scene0056_00
+[INFO] Scene scene0057_00 (visit=423306, video=42897743) split=train
+[INFO] Frames: RGB=1135 depth=1135 intr=1135 -> use 1135 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3758709 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0057_00.pth
+[DONE] scene0057_00
+[INFO] Scene scene0058_00 (visit=423307, video=42897780) split=train
+[INFO] Frames: RGB=1405 depth=1405 intr=1405 -> use 1405 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4053743 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0058_00.pth
+[DONE] scene0058_00
+[INFO] Scene scene0059_00 (visit=423310, video=42897877) split=train
+[INFO] Frames: RGB=297 depth=297 intr=297 -> use 297 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2856134 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0059_00.pth
+[DONE] scene0059_00
+[INFO] Scene scene0060_00 (visit=423311, video=42898007) split=train
+[INFO] Frames: RGB=233 depth=233 intr=233 -> use 233 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1601779 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0060_00.pth
+[DONE] scene0060_00
+[INFO] Scene scene0061_00 (visit=423315, video=42897868) split=train
+[INFO] Frames: RGB=437 depth=437 intr=437 -> use 437 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3154301 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0061_00.pth
+[DONE] scene0061_00
+[INFO] Scene scene0062_00 (visit=423325, video=42897722) split=train
+[INFO] Frames: RGB=1397 depth=1397 intr=1397 -> use 1397 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5486378 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0062_00.pth
+[DONE] scene0062_00
+[INFO] Scene scene0063_00 (visit=423438, video=42897439) split=train
+[INFO] Frames: RGB=903 depth=903 intr=903 -> use 903 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3666550 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0063_00.pth
+[DONE] scene0063_00
+[INFO] Scene scene0064_00 (visit=423442, video=42897478) split=train
+[INFO] Frames: RGB=815 depth=815 intr=815 -> use 815 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3481273 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0064_00.pth
+[DONE] scene0064_00
+[INFO] Scene scene0065_00 (visit=423452, video=42897434) split=val
+[INFO] Frames: RGB=1622 depth=1622 intr=1622 -> use 1622 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7268853 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0065_00.pth
+[DONE] scene0065_00
+[INFO] Scene scene0066_00 (visit=423461, video=42897419) split=train
+[INFO] Frames: RGB=696 depth=696 intr=696 -> use 696 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2046091 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0066_00.pth
+[DONE] scene0066_00
+[INFO] Scene scene0067_00 (visit=423474, video=42897405) split=train
+[INFO] Frames: RGB=570 depth=570 intr=570 -> use 570 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2554518 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0067_00.pth
+[DONE] scene0067_00
+[INFO] Scene scene0068_00 (visit=423738, video=42897818) split=train
+[INFO] Frames: RGB=663 depth=663 intr=663 -> use 663 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3931661 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0068_00.pth
+[DONE] scene0068_00
+[INFO] Scene scene0069_00 (visit=423747, video=42897755) split=train
+[INFO] Frames: RGB=692 depth=692 intr=692 -> use 692 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7349853 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0069_00.pth
+[DONE] scene0069_00
+[INFO] Scene scene0070_00 (visit=423770, video=42898065) split=train
+[INFO] Frames: RGB=706 depth=706 intr=706 -> use 706 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4321165 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0070_00.pth
+[DONE] scene0070_00
+[INFO] Scene scene0071_00 (visit=423792, video=42897931) split=train
+[INFO] Frames: RGB=602 depth=602 intr=602 -> use 602 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1963696 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0071_00.pth
+[DONE] scene0071_00
+[INFO] Scene scene0072_00 (visit=423953, video=42898345) split=train
+[INFO] Frames: RGB=473 depth=473 intr=473 -> use 473 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1811939 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0072_00.pth
+[DONE] scene0072_00
+[INFO] Scene scene0073_00 (visit=423957, video=42898340) split=val
+[INFO] Frames: RGB=584 depth=584 intr=584 -> use 584 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3675188 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0073_00.pth
+[DONE] scene0073_00
+[INFO] Scene scene0074_00 (visit=423966, video=42898334) split=train
+[INFO] Frames: RGB=535 depth=535 intr=535 -> use 535 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4037024 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0074_00.pth
+[DONE] scene0074_00
+[INFO] Scene scene0075_00 (visit=423974, video=42898248) split=train
+[INFO] Frames: RGB=818 depth=818 intr=818 -> use 818 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4941650 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0075_00.pth
+[DONE] scene0075_00
+[INFO] Scene scene0076_00 (visit=423989, video=42898221) split=train
+[INFO] Frames: RGB=716 depth=716 intr=716 -> use 716 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5055313 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0076_00.pth
+[DONE] scene0076_00
+[INFO] Scene scene0077_00 (visit=426143, video=42898765) split=train
+[INFO] Frames: RGB=521 depth=521 intr=521 -> use 521 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5725813 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0077_00.pth
+[DONE] scene0077_00
+[INFO] Scene scene0078_00 (visit=426153, video=42898470) split=train
+[INFO] Frames: RGB=840 depth=840 intr=840 -> use 840 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=9255576 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0078_00.pth
+[DONE] scene0078_00
+[INFO] Scene scene0079_00 (visit=426156, video=42898558) split=train
+[INFO] Frames: RGB=1068 depth=1068 intr=1068 -> use 1068 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4209470 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0079_00.pth
+[DONE] scene0079_00
+[INFO] Scene scene0080_00 (visit=426247, video=42898189) split=train
+[INFO] Frames: RGB=746 depth=746 intr=746 -> use 746 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2402669 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0080_00.pth
+[DONE] scene0080_00
+[INFO] Scene scene0081_00 (visit=426262, video=42898448) split=train
+[INFO] Frames: RGB=407 depth=407 intr=407 -> use 407 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1764764 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0081_00.pth
+[DONE] scene0081_00
+[INFO] Scene scene0082_00 (visit=426265, video=42898156) split=train
+[INFO] Frames: RGB=573 depth=573 intr=573 -> use 573 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4228447 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0082_00.pth
+[DONE] scene0082_00
+[INFO] Scene scene0083_00 (visit=434687, video=42898511) split=train
+[INFO] Frames: RGB=637 depth=637 intr=637 -> use 637 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6858317 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0083_00.pth
+[DONE] scene0083_00
+[INFO] Scene scene0084_00 (visit=434688, video=42898802) split=train
+[INFO] Frames: RGB=463 depth=463 intr=463 -> use 463 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5006749 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0084_00.pth
+[DONE] scene0084_00
+[INFO] Scene scene0085_00 (visit=434689, video=42898500) split=train
+[INFO] Frames: RGB=491 depth=491 intr=491 -> use 491 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4530598 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0085_00.pth
+[DONE] scene0085_00
+[INFO] Scene scene0086_00 (visit=434700, video=42898571) split=train
+[INFO] Frames: RGB=751 depth=751 intr=751 -> use 751 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7635562 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0086_00.pth
+[DONE] scene0086_00
+[INFO] Scene scene0087_00 (visit=434872, video=42899433) split=train
+[INFO] Frames: RGB=488 depth=488 intr=488 -> use 488 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2513489 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0087_00.pth
+[DONE] scene0087_00
+[INFO] Scene scene0088_00 (visit=434888, video=42899184) split=val
+[INFO] Frames: RGB=261 depth=261 intr=261 -> use 261 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4274977 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0088_00.pth
+[DONE] scene0088_00
+[INFO] Scene scene0089_00 (visit=434892, video=42899175) split=train
+[INFO] Frames: RGB=952 depth=952 intr=952 -> use 952 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4517681 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0089_00.pth
+[DONE] scene0089_00
+[INFO] Scene scene0090_00 (visit=434897, video=42899165) split=val
+[INFO] Frames: RGB=456 depth=456 intr=456 -> use 456 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4679700 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0090_00.pth
+[DONE] scene0090_00
+[INFO] Scene scene0091_00 (visit=434955, video=42899137) split=train
+[INFO] Frames: RGB=88 depth=88 intr=88 -> use 88 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6161474 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0091_00.pth
+[DONE] scene0091_00
+[INFO] Scene scene0092_00 (visit=435324, video=42899221) split=val
+[INFO] Frames: RGB=764 depth=764 intr=764 -> use 764 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4143480 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0092_00.pth
+[DONE] scene0092_00
+[INFO] Scene scene0093_00 (visit=435327, video=42899295) split=train
+[INFO] Frames: RGB=1091 depth=1091 intr=1091 -> use 1091 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3476156 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0093_00.pth
+[DONE] scene0093_00
+[INFO] Scene scene0094_00 (visit=435328, video=42899453) split=train
+[INFO] Frames: RGB=336 depth=336 intr=336 -> use 336 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3222683 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0094_00.pth
+[DONE] scene0094_00
+[INFO] Scene scene0095_00 (visit=435345, video=42899562) split=train
+[INFO] Frames: RGB=407 depth=407 intr=407 -> use 407 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2172286 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0095_00.pth
+[DONE] scene0095_00
+[INFO] Scene scene0096_00 (visit=435353, video=42899542) split=train
+[INFO] Frames: RGB=484 depth=484 intr=484 -> use 484 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5606838 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0096_00.pth
+[DONE] scene0096_00
+[INFO] Scene scene0097_00 (visit=435357, video=42899624) split=val
+[INFO] Frames: RGB=1201 depth=1201 intr=1201 -> use 1201 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4596843 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0097_00.pth
+[DONE] scene0097_00
+[INFO] Scene scene0098_00 (visit=435363, video=42899774) split=train
+[INFO] Frames: RGB=413 depth=413 intr=413 -> use 413 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2634432 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0098_00.pth
+[DONE] scene0098_00
+[INFO] Scene scene0099_00 (visit=435715, video=42899600) split=train
+[INFO] Frames: RGB=1093 depth=1093 intr=1093 -> use 1093 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6175823 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0099_00.pth
+[DONE] scene0099_00
+[INFO] Scene scene0100_00 (visit=435718, video=42899668) split=train
+[INFO] Frames: RGB=925 depth=925 intr=925 -> use 925 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3758969 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0100_00.pth
+[DONE] scene0100_00
+[INFO] Scene scene0101_00 (visit=435724, video=42899822) split=train
+[INFO] Frames: RGB=219 depth=219 intr=219 -> use 219 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4647235 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0101_00.pth
+[DONE] scene0101_00
+[INFO] Scene scene0102_00 (visit=436997, video=43649409) split=train
+[INFO] Frames: RGB=983 depth=983 intr=983 -> use 983 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5110958 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0102_00.pth
+[DONE] scene0102_00
+[INFO] Scene scene0103_00 (visit=437125, video=43649480) split=train
+[INFO] Frames: RGB=1104 depth=1104 intr=1104 -> use 1104 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=12069398 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0103_00.pth
+[DONE] scene0103_00
+[INFO] Scene scene0104_00 (visit=437134, video=43649463) split=train
+[INFO] Frames: RGB=1130 depth=1130 intr=1130 -> use 1130 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=8202257 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0104_00.pth
+[DONE] scene0104_00
+[INFO] Scene scene0105_00 (visit=437157, video=43649686) split=val
+[INFO] Frames: RGB=1364 depth=1364 intr=1364 -> use 1364 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4291039 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0105_00.pth
+[DONE] scene0105_00
+[INFO] Scene scene0106_00 (visit=437159, video=43649681) split=train
+[INFO] Frames: RGB=812 depth=812 intr=812 -> use 812 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1811036 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0106_00.pth
+[DONE] scene0106_00
+[INFO] Scene scene0107_00 (visit=437165, video=43649615) split=train
+[INFO] Frames: RGB=552 depth=552 intr=552 -> use 552 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1738795 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0107_00.pth
+[DONE] scene0107_00
+[INFO] Scene scene0108_00 (visit=437167, video=43649609) split=train
+[INFO] Frames: RGB=774 depth=774 intr=774 -> use 774 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2912377 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0108_00.pth
+[DONE] scene0108_00
+[INFO] Scene scene0109_00 (visit=437168, video=43649603) split=train
+[INFO] Frames: RGB=1923 depth=1923 intr=1923 -> use 1923 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5695600 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0109_00.pth
+[DONE] scene0109_00
+[INFO] Scene scene0110_00 (visit=437169, video=43649590) split=train
+[INFO] Frames: RGB=375 depth=375 intr=375 -> use 375 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3032008 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0110_00.pth
+[DONE] scene0110_00
+[INFO] Scene scene0111_00 (visit=437219, video=43649727) split=train
+[INFO] Frames: RGB=560 depth=560 intr=560 -> use 560 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4122085 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0111_00.pth
+[DONE] scene0111_00
+[INFO] Scene scene0112_00 (visit=437294, video=43649762) split=val
+[INFO] Frames: RGB=1164 depth=1164 intr=1164 -> use 1164 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4560091 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0112_00.pth
+[DONE] scene0112_00
+[INFO] Scene scene0113_00 (visit=437299, video=43649802) split=train
+[INFO] Frames: RGB=1157 depth=1157 intr=1157 -> use 1157 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5552469 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0113_00.pth
+[DONE] scene0113_00
+[INFO] Scene scene0114_00 (visit=437448, video=43828231) split=train
+[INFO] Frames: RGB=789 depth=789 intr=789 -> use 789 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7127697 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0114_00.pth
+[DONE] scene0114_00
+[INFO] Scene scene0115_00 (visit=437450, video=43828154) split=train
+[INFO] Frames: RGB=746 depth=746 intr=746 -> use 746 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7288759 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0115_00.pth
+[DONE] scene0115_00
+[INFO] Scene scene0116_00 (visit=437520, video=43828456) split=train
+[INFO] Frames: RGB=883 depth=883 intr=883 -> use 883 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1493747 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0116_00.pth
+[DONE] scene0116_00
+[INFO] Scene scene0117_00 (visit=437521, video=43828441) split=train
+[INFO] Frames: RGB=1432 depth=1432 intr=1432 -> use 1432 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=9930632 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0117_00.pth
+[DONE] scene0117_00
+[INFO] Scene scene0118_00 (visit=437528, video=43828421) split=train
+[INFO] Frames: RGB=558 depth=558 intr=558 -> use 558 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2591589 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0118_00.pth
+[DONE] scene0118_00
+[INFO] Scene scene0119_00 (visit=437530, video=43828402) split=train
+[INFO] Frames: RGB=564 depth=564 intr=564 -> use 564 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2312018 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0119_00.pth
+[DONE] scene0119_00
+[INFO] Scene scene0120_00 (visit=437533, video=43828382) split=train
+[INFO] Frames: RGB=640 depth=640 intr=640 -> use 640 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4002237 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0120_00.pth
+[DONE] scene0120_00
+[INFO] Scene scene0121_00 (visit=437539, video=43828361) split=train
+[INFO] Frames: RGB=712 depth=712 intr=712 -> use 712 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4759360 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0121_00.pth
+[DONE] scene0121_00
+[INFO] Scene scene0122_00 (visit=437543, video=43828351) split=train
+[INFO] Frames: RGB=652 depth=652 intr=652 -> use 652 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2282937 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0122_00.pth
+[DONE] scene0122_00
+[INFO] Scene scene0123_00 (visit=437709, video=43828391) split=train
+[INFO] Frames: RGB=976 depth=976 intr=976 -> use 976 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6071543 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0123_00.pth
+[DONE] scene0123_00
+[INFO] Scene scene0124_00 (visit=437711, video=43828463) split=train
+[INFO] Frames: RGB=1063 depth=1063 intr=1063 -> use 1063 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2776533 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0124_00.pth
+[DONE] scene0124_00
+[INFO] Scene scene0125_00 (visit=437985, video=43896024) split=train
+[INFO] Frames: RGB=1644 depth=1644 intr=1644 -> use 1644 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6945198 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0125_00.pth
+[DONE] scene0125_00
+[INFO] Scene scene0126_00 (visit=438017, video=43896169) split=train
+[INFO] Frames: RGB=873 depth=873 intr=873 -> use 873 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6112279 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0126_00.pth
+[DONE] scene0126_00
+[INFO] Scene scene0127_00 (visit=438101, video=43896256) split=train
+[INFO] Frames: RGB=533 depth=533 intr=533 -> use 533 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2293909 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0127_00.pth
+[DONE] scene0127_00
+[INFO] Scene scene0128_00 (visit=438102, video=43896244) split=val
+[INFO] Frames: RGB=1141 depth=1141 intr=1141 -> use 1141 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2656366 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0128_00.pth
+[DONE] scene0128_00
+[INFO] Scene scene0129_00 (visit=438118, video=43896177) split=train
+[INFO] Frames: RGB=330 depth=330 intr=330 -> use 330 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5429461 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0129_00.pth
+[DONE] scene0129_00
+[INFO] Scene scene0130_00 (visit=438775, video=44358173) split=val
+[INFO] Frames: RGB=1605 depth=1605 intr=1605 -> use 1605 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7422686 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0130_00.pth
+[DONE] scene0130_00
+[INFO] Scene scene0131_00 (visit=438779, video=44358167) split=train
+[INFO] Frames: RGB=1172 depth=1172 intr=1172 -> use 1172 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=10163416 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0131_00.pth
+[DONE] scene0131_00
+[INFO] Scene scene0132_00 (visit=438794, video=44358241) split=train
+[INFO] Frames: RGB=732 depth=732 intr=732 -> use 732 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1926077 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0132_00.pth
+[DONE] scene0132_00
+[INFO] Scene scene0133_00 (visit=438795, video=44358230) split=train
+[INFO] Frames: RGB=1621 depth=1621 intr=1621 -> use 1621 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3839186 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0133_00.pth
+[DONE] scene0133_00
+[INFO] Scene scene0134_00 (visit=438796, video=44358225) split=train
+[INFO] Frames: RGB=1216 depth=1216 intr=1216 -> use 1216 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5453125 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0134_00.pth
+[DONE] scene0134_00
+[INFO] Scene scene0135_00 (visit=438804, video=44358253) split=train
+[INFO] Frames: RGB=1255 depth=1255 intr=1255 -> use 1255 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6228595 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0135_00.pth
+[DONE] scene0135_00
+[INFO] Scene scene0136_00 (visit=438966, video=44358289) split=train
+[INFO] Frames: RGB=894 depth=894 intr=894 -> use 894 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3788849 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0136_00.pth
+[DONE] scene0136_00
+[INFO] Scene scene0137_00 (visit=442392, video=44358328) split=train
+[INFO] Frames: RGB=1508 depth=1508 intr=1508 -> use 1508 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6912368 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0137_00.pth
+[DONE] scene0137_00
+[INFO] Scene scene0138_00 (visit=455337, video=44358423) split=train
+[INFO] Frames: RGB=824 depth=824 intr=824 -> use 824 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1600118 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0138_00.pth
+[DONE] scene0138_00
+[INFO] Scene scene0139_00 (visit=455339, video=44358418) split=train
+[INFO] Frames: RGB=412 depth=412 intr=412 -> use 412 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1494196 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0139_00.pth
+[DONE] scene0139_00
+[INFO] Scene scene0140_00 (visit=455342, video=44358472) split=val
+[INFO] Frames: RGB=514 depth=514 intr=514 -> use 514 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5470855 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0140_00.pth
+[DONE] scene0140_00
+[INFO] Scene scene0141_00 (visit=464230, video=44358691) split=train
+[INFO] Frames: RGB=1089 depth=1089 intr=1089 -> use 1089 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7710017 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0141_00.pth
+[DONE] scene0141_00
+[INFO] Scene scene0142_00 (visit=464236, video=44358620) split=train
+[INFO] Frames: RGB=833 depth=833 intr=833 -> use 833 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4392851 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0142_00.pth
+[DONE] scene0142_00
+[INFO] Scene scene0143_00 (visit=464754, video=44796279) split=train
+[INFO] Frames: RGB=1547 depth=1547 intr=1547 -> use 1547 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4699580 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0143_00.pth
+[DONE] scene0143_00
+[INFO] Scene scene0144_00 (visit=464755, video=44796191) split=train
+[INFO] Frames: RGB=1450 depth=1450 intr=1450 -> use 1450 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2812042 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0144_00.pth
+[DONE] scene0144_00
+[INFO] Scene scene0145_00 (visit=464758, video=44358731) split=train
+[INFO] Frames: RGB=971 depth=971 intr=971 -> use 971 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6529293 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0145_00.pth
+[DONE] scene0145_00
+[INFO] Scene scene0146_00 (visit=464795, video=44796366) split=train
+[INFO] Frames: RGB=933 depth=933 intr=933 -> use 933 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=8050830 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0146_00.pth
+[DONE] scene0146_00
+[INFO] Scene scene0147_00 (visit=464975, video=44796505) split=train
+[INFO] Frames: RGB=1083 depth=1083 intr=1083 -> use 1083 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6824729 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0147_00.pth
+[DONE] scene0147_00
+[INFO] Scene scene0148_00 (visit=464977, video=44796451) split=train
+[INFO] Frames: RGB=598 depth=598 intr=598 -> use 598 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4389231 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0148_00.pth
+[DONE] scene0148_00
+[INFO] Scene scene0149_00 (visit=464979, video=44796491) split=train
+[INFO] Frames: RGB=947 depth=947 intr=947 -> use 947 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6597719 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0149_00.pth
+[DONE] scene0149_00
+[INFO] Scene scene0150_00 (visit=464981, video=44796443) split=train
+[INFO] Frames: RGB=1045 depth=1045 intr=1045 -> use 1045 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=9149892 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0150_00.pth
+[DONE] scene0150_00
+[INFO] Scene scene0151_00 (visit=464982, video=44796483) split=train
+[INFO] Frames: RGB=992 depth=992 intr=992 -> use 992 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2656505 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0151_00.pth
+[DONE] scene0151_00
+[INFO] Scene scene0152_00 (visit=466092, video=44796568) split=val
+[INFO] Frames: RGB=951 depth=951 intr=951 -> use 951 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=8279405 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0152_00.pth
+[DONE] scene0152_00
+[INFO] Scene scene0153_00 (visit=466111, video=44796475) split=train
+[INFO] Frames: RGB=1596 depth=1596 intr=1596 -> use 1596 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5289834 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0153_00.pth
+[DONE] scene0153_00
+[INFO] Scene scene0154_00 (visit=466112, video=44796520) split=val
+[INFO] Frames: RGB=592 depth=592 intr=592 -> use 592 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3036119 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0154_00.pth
+[DONE] scene0154_00
+[INFO] Scene scene0155_00 (visit=466159, video=44796598) split=train
+[INFO] Frames: RGB=1182 depth=1182 intr=1182 -> use 1182 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3746426 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0155_00.pth
+[DONE] scene0155_00
+[INFO] Scene scene0156_00 (visit=466160, video=44796584) split=train
+[INFO] Frames: RGB=563 depth=563 intr=563 -> use 563 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2776480 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0156_00.pth
+[DONE] scene0156_00
+[INFO] Scene scene0157_00 (visit=466162, video=44796575) split=val
+[INFO] Frames: RGB=1120 depth=1120 intr=1120 -> use 1120 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6068153 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0157_00.pth
+[DONE] scene0157_00
+[INFO] Scene scene0158_00 (visit=466176, video=45260946) split=train
+[INFO] Frames: RGB=835 depth=835 intr=835 -> use 835 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=9844582 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0158_00.pth
+[DONE] scene0158_00
+[INFO] Scene scene0159_00 (visit=466234, video=44796752) split=train
+[INFO] Frames: RGB=857 depth=857 intr=857 -> use 857 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=8295523 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0159_00.pth
+[DONE] scene0159_00
+[INFO] Scene scene0160_00 (visit=466238, video=44796744) split=train
+[INFO] Frames: RGB=1743 depth=1743 intr=1743 -> use 1743 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=11731447 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0160_00.pth
+[DONE] scene0160_00
+[INFO] Scene scene0161_00 (visit=466433, video=45260892) split=train
+[INFO] Frames: RGB=372 depth=372 intr=372 -> use 372 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1971732 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0161_00.pth
+[DONE] scene0161_00
+[INFO] Scene scene0162_00 (visit=466437, video=45260951) split=val
+[INFO] Frames: RGB=1288 depth=1288 intr=1288 -> use 1288 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4864801 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0162_00.pth
+[DONE] scene0162_00
+[INFO] Scene scene0163_00 (visit=466637, video=45261172) split=train
+[INFO] Frames: RGB=1765 depth=1765 intr=1765 -> use 1765 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=8475326 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0163_00.pth
+[DONE] scene0163_00
+[INFO] Scene scene0164_00 (visit=466644, video=45261164) split=train
+[INFO] Frames: RGB=1068 depth=1068 intr=1068 -> use 1068 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=9341193 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0164_00.pth
+[DONE] scene0164_00
+[INFO] Scene scene0165_00 (visit=466731, video=45261281) split=train
+[INFO] Frames: RGB=890 depth=890 intr=890 -> use 890 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5478732 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0165_00.pth
+[DONE] scene0165_00
+[INFO] Scene scene0166_00 (visit=466739, video=45261263) split=train
+[INFO] Frames: RGB=489 depth=489 intr=489 -> use 489 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2812906 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0166_00.pth
+[DONE] scene0166_00
+[INFO] Scene scene0167_00 (visit=466741, video=45261206) split=train
+[INFO] Frames: RGB=1188 depth=1188 intr=1188 -> use 1188 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6574877 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0167_00.pth
+[DONE] scene0167_00
+[INFO] Scene scene0168_00 (visit=466828, video=45261317) split=train
+[INFO] Frames: RGB=819 depth=819 intr=819 -> use 819 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7082671 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0168_00.pth
+[DONE] scene0168_00
+[INFO] Scene scene0169_00 (visit=466831, video=47331772) split=train
+[INFO] Frames: RGB=213 depth=213 intr=213 -> use 213 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4390873 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0169_00.pth
+[DONE] scene0169_00
+[INFO] Scene scene0170_00 (visit=466832, video=45261397) split=train
+[INFO] Frames: RGB=644 depth=644 intr=644 -> use 644 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2177506 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0170_00.pth
+[DONE] scene0170_00
+[INFO] Scene scene0171_00 (visit=466835, video=47331604) split=train
+[INFO] Frames: RGB=667 depth=667 intr=667 -> use 667 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1911558 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0171_00.pth
+[DONE] scene0171_00
+[INFO] Scene scene0172_00 (visit=466841, video=47331591) split=val
+[INFO] Frames: RGB=490 depth=490 intr=490 -> use 490 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3123337 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0172_00.pth
+[DONE] scene0172_00
+[INFO] Scene scene0173_00 (visit=466850, video=47331573) split=train
+[INFO] Frames: RGB=393 depth=393 intr=393 -> use 393 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6498129 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0173_00.pth
+[DONE] scene0173_00
+[INFO] Scene scene0174_00 (visit=466869, video=45261378) split=train
+[INFO] Frames: RGB=1463 depth=1463 intr=1463 -> use 1463 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=8994055 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0174_00.pth
+[DONE] scene0174_00
+[INFO] Scene scene0175_00 (visit=466876, video=47331560) split=val
+[INFO] Frames: RGB=589 depth=589 intr=589 -> use 589 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2787715 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0175_00.pth
+[DONE] scene0175_00
+[INFO] Scene scene0176_00 (visit=466880, video=47331711) split=val
+[INFO] Frames: RGB=774 depth=774 intr=774 -> use 774 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5541200 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0176_00.pth
+[DONE] scene0176_00
+[INFO] Scene scene0177_00 (visit=466895, video=47331544) split=train
+[INFO] Frames: RGB=755 depth=755 intr=755 -> use 755 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5084719 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0177_00.pth
+[DONE] scene0177_00
+[INFO] Scene scene0178_00 (visit=466899, video=47331625) split=train
+[INFO] Frames: RGB=1233 depth=1233 intr=1233 -> use 1233 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1963840 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0178_00.pth
+[DONE] scene0178_00
+[INFO] Scene scene0179_00 (visit=466908, video=47331533) split=train
+[INFO] Frames: RGB=954 depth=954 intr=954 -> use 954 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=7869502 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0179_00.pth
+[DONE] scene0179_00
+[INFO] Scene scene0180_00 (visit=466916, video=47331617) split=val
+[INFO] Frames: RGB=1516 depth=1516 intr=1516 -> use 1516 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6031669 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0180_00.pth
+[DONE] scene0180_00
+[INFO] Scene scene0181_00 (visit=466964, video=45261248) split=train
+[INFO] Frames: RGB=913 depth=913 intr=913 -> use 913 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2389252 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0181_00.pth
+[DONE] scene0181_00
+[INFO] Scene scene0182_00 (visit=466965, video=45261297) split=train
+[INFO] Frames: RGB=696 depth=696 intr=696 -> use 696 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4352267 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0182_00.pth
+[DONE] scene0182_00
+[INFO] Scene scene0183_00 (visit=466967, video=45261289) split=train
+[INFO] Frames: RGB=608 depth=608 intr=608 -> use 608 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3824393 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0183_00.pth
+[DONE] scene0183_00
+[INFO] Scene scene0184_00 (visit=467102, video=45261495) split=train
+[INFO] Frames: RGB=810 depth=810 intr=810 -> use 810 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4913653 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0184_00.pth
+[DONE] scene0184_00
+[INFO] Scene scene0185_00 (visit=467105, video=45261485) split=train
+[INFO] Frames: RGB=634 depth=634 intr=634 -> use 634 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2409292 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0185_00.pth
+[DONE] scene0185_00
+[INFO] Scene scene0186_00 (visit=467106, video=47333329) split=train
+[INFO] Frames: RGB=1460 depth=1460 intr=1460 -> use 1460 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2308834 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0186_00.pth
+[DONE] scene0186_00
+[INFO] Scene scene0187_00 (visit=467109, video=47333325) split=train
+[INFO] Frames: RGB=1328 depth=1328 intr=1328 -> use 1328 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3590931 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0187_00.pth
+[DONE] scene0187_00
+[INFO] Scene scene0188_00 (visit=467115, video=47333319) split=val
+[INFO] Frames: RGB=2881 depth=2881 intr=2881 -> use 2881 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=8487949 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0188_00.pth
+[DONE] scene0188_00
+[INFO] Scene scene0189_00 (visit=467119, video=47333497) split=train
+[INFO] Frames: RGB=966 depth=966 intr=966 -> use 966 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=9584777 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0189_00.pth
+[DONE] scene0189_00
+[INFO] Scene scene0190_00 (visit=467125, video=47333487) split=train
+[INFO] Frames: RGB=497 depth=497 intr=497 -> use 497 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2550756 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0190_00.pth
+[DONE] scene0190_00
+[INFO] Scene scene0191_00 (visit=467128, video=47333477) split=train
+[INFO] Frames: RGB=645 depth=645 intr=645 -> use 645 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2127493 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0191_00.pth
+[DONE] scene0191_00
+[INFO] Scene scene0192_00 (visit=467139, video=47333298) split=val
+[INFO] Frames: RGB=1483 depth=1483 intr=1483 -> use 1483 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2974948 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0192_00.pth
+[DONE] scene0192_00
+[INFO] Scene scene0193_00 (visit=467152, video=47333281) split=train
+[INFO] Frames: RGB=2384 depth=2384 intr=2384 -> use 2384 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6468956 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0193_00.pth
+[DONE] scene0193_00
+[INFO] Scene scene0194_00 (visit=467159, video=47333521) split=train
+[INFO] Frames: RGB=272 depth=272 intr=272 -> use 272 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1774329 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0194_00.pth
+[DONE] scene0194_00
+[INFO] Scene scene0195_00 (visit=467166, video=47333372) split=train
+[INFO] Frames: RGB=348 depth=348 intr=348 -> use 348 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2627581 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0195_00.pth
+[DONE] scene0195_00
+[INFO] Scene scene0196_00 (visit=467175, video=47333512) split=train
+[INFO] Frames: RGB=607 depth=607 intr=607 -> use 607 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4255965 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0196_00.pth
+[DONE] scene0196_00
+[INFO] Scene scene0197_00 (visit=467181, video=47333233) split=train
+[INFO] Frames: RGB=472 depth=472 intr=472 -> use 472 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6989919 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0197_00.pth
+[DONE] scene0197_00
+[INFO] Scene scene0198_00 (visit=467252, video=45261406) split=train
+[INFO] Frames: RGB=1313 depth=1313 intr=1313 -> use 1313 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2574384 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0198_00.pth
+[DONE] scene0198_00
+[INFO] Scene scene0199_00 (visit=467254, video=47331796) split=train
+[INFO] Frames: RGB=288 depth=288 intr=288 -> use 288 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1268419 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0199_00.pth
+[DONE] scene0199_00
+[INFO] Scene scene0200_00 (visit=467283, video=45261522) split=train
+[INFO] Frames: RGB=922 depth=922 intr=922 -> use 922 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4046611 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0200_00.pth
+[DONE] scene0200_00
+[INFO] Scene scene0201_00 (visit=467296, video=47334005) split=train
+[INFO] Frames: RGB=45 depth=45 intr=45 -> use 45 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2363063 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0201_00.pth
+[DONE] scene0201_00
+[INFO] Scene scene0202_00 (visit=467297, video=47334001) split=train
+[INFO] Frames: RGB=40 depth=40 intr=40 -> use 40 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 51%
+[INFO] 2D color: 76%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 51%
+[INFO] 2D depth: 76%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 51%
+[INFO] Intrinsics export: 76%
+[INFO] Pose export: 0%
+[INFO] Pose export: 51%
+[INFO] 3D export: coords=1737051 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0202_00.pth
+[DONE] scene0202_00
+[INFO] Scene scene0203_00 (visit=467312, video=45261571) split=train
+[INFO] Frames: RGB=909 depth=909 intr=909 -> use 909 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2799211 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0203_00.pth
+[DONE] scene0203_00
+[INFO] Scene scene0204_00 (visit=467326, video=45261544) split=train
+[INFO] Frames: RGB=292 depth=292 intr=292 -> use 292 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=492864 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0204_00.pth
+[DONE] scene0204_00
+[INFO] Scene scene0205_00 (visit=467330, video=45261600) split=val
+[INFO] Frames: RGB=959 depth=959 intr=959 -> use 959 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4656249 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0205_00.pth
+[DONE] scene0205_00
+[INFO] Scene scene0206_00 (visit=467334, video=45261541) split=train
+[INFO] Frames: RGB=1220 depth=1220 intr=1220 -> use 1220 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6697233 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0206_00.pth
+[DONE] scene0206_00
+[INFO] Scene scene0207_00 (visit=467337, video=47333974) split=train
+[INFO] Frames: RGB=519 depth=519 intr=519 -> use 519 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3068653 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0207_00.pth
+[DONE] scene0207_00
+[INFO] Scene scene0208_00 (visit=467341, video=47333892) split=train
+[INFO] Frames: RGB=707 depth=707 intr=707 -> use 707 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2758283 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0208_00.pth
+[DONE] scene0208_00
+[INFO] Scene scene0209_00 (visit=467344, video=47333965) split=train
+[INFO] Frames: RGB=455 depth=455 intr=455 -> use 455 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4266557 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0209_00.pth
+[DONE] scene0209_00
+[INFO] Scene scene0210_00 (visit=467346, video=47333876) split=train
+[INFO] Frames: RGB=1174 depth=1174 intr=1174 -> use 1174 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4993822 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0210_00.pth
+[DONE] scene0210_00
+[INFO] Scene scene0211_00 (visit=467350, video=47333873) split=train
+[INFO] Frames: RGB=796 depth=796 intr=796 -> use 796 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4358396 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0211_00.pth
+[DONE] scene0211_00
+[INFO] Scene scene0212_00 (visit=467351, video=47333945) split=train
+[INFO] Frames: RGB=455 depth=455 intr=455 -> use 455 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6465651 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0212_00.pth
+[DONE] scene0212_00
+[INFO] Scene scene0213_00 (visit=467360, video=47333785) split=train
+[INFO] Frames: RGB=1127 depth=1127 intr=1127 -> use 1127 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2297136 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0213_00.pth
+[DONE] scene0213_00
+[INFO] Scene scene0214_00 (visit=467367, video=47333847) split=train
+[INFO] Frames: RGB=1265 depth=1265 intr=1265 -> use 1265 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5598406 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0214_00.pth
+[DONE] scene0214_00
+[INFO] Scene scene0215_00 (visit=468071, video=47333838) split=train
+[INFO] Frames: RGB=1799 depth=1799 intr=1799 -> use 1799 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3335738 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0215_00.pth
+[DONE] scene0215_00
+[INFO] Scene scene0216_00 (visit=468074, video=47333826) split=train
+[INFO] Frames: RGB=1347 depth=1347 intr=1347 -> use 1347 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2024989 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0216_00.pth
+[DONE] scene0216_00
+[INFO] Scene scene0217_00 (visit=468104, video=47334559) split=train
+[INFO] Frames: RGB=225 depth=225 intr=225 -> use 225 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4796218 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0217_00.pth
+[DONE] scene0217_00
+[INFO] Scene scene0218_00 (visit=468108, video=47334557) split=train
+[INFO] Frames: RGB=276 depth=276 intr=276 -> use 276 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2796744 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0218_00.pth
+[DONE] scene0218_00
+[INFO] Scene scene0219_00 (visit=468111, video=47334548) split=train
+[INFO] Frames: RGB=192 depth=192 intr=192 -> use 192 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2013358 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0219_00.pth
+[DONE] scene0219_00
+[INFO] Scene scene0220_00 (visit=468136, video=47334525) split=train
+[INFO] Frames: RGB=327 depth=327 intr=327 -> use 327 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=1729690 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0220_00.pth
+[DONE] scene0220_00
+[INFO] Scene scene0221_00 (visit=468140, video=47334514) split=train
+[INFO] Frames: RGB=151 depth=151 intr=151 -> use 151 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=2219823 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0221_00.pth
+[DONE] scene0221_00
+[INFO] Scene scene0222_00 (visit=468146, video=47334499) split=train
+[INFO] Frames: RGB=594 depth=594 intr=594 -> use 594 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6455678 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0222_00.pth
+[DONE] scene0222_00
+[INFO] Scene scene0223_00 (visit=468275, video=47331298) split=train
+[INFO] Frames: RGB=1903 depth=1903 intr=1903 -> use 1903 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5199859 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0223_00.pth
+[DONE] scene0223_00
+[INFO] Scene scene0224_00 (visit=468282, video=47331279) split=val
+[INFO] Frames: RGB=1520 depth=1520 intr=1520 -> use 1520 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=3608257 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0224_00.pth
+[DONE] scene0224_00
+[INFO] Scene scene0225_00 (visit=468393, video=45261651) split=train
+[INFO] Frames: RGB=851 depth=851 intr=851 -> use 851 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 24%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 24%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 24%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5923731 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0225_00.pth
+[DONE] scene0225_00
+[INFO] Scene scene0226_00 (visit=468402, video=45261645) split=train
+[INFO] Frames: RGB=676 depth=676 intr=676 -> use 676 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5186395 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0226_00.pth
+[DONE] scene0226_00
+[INFO] Scene scene0227_00 (visit=468476, video=45261686) split=val
+[INFO] Frames: RGB=1012 depth=1012 intr=1012 -> use 1012 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=6762678 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/val/scene0227_00.pth
+[DONE] scene0227_00
+[INFO] Scene scene0228_00 (visit=468477, video=45261675) split=train
+[INFO] Frames: RGB=848 depth=848 intr=848 -> use 848 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=5428396 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0228_00.pth
+[DONE] scene0228_00
+[INFO] Scene scene0229_00 (visit=468496, video=45662870) split=train
+[INFO] Frames: RGB=1124 depth=1124 intr=1124 -> use 1124 synced
+[INFO] Intrinsics: per-frame (values vary)
+[INFO] 2D export: color
+[INFO] 2D color: 0%
+[INFO] 2D color: 25%
+[INFO] 2D color: 50%
+[INFO] 2D color: 75%
+[INFO] 2D export: depth
+[INFO] 2D depth: 0%
+[INFO] 2D depth: 25%
+[INFO] 2D depth: 50%
+[INFO] 2D depth: 75%
+[INFO] Intrinsics export: 0%
+[INFO] Intrinsics export: 25%
+[INFO] Intrinsics export: 50%
+[INFO] Intrinsics export: 75%
+[INFO] Pose export: 0%
+[INFO] Pose export: 50%
+[INFO] 3D export: coords=4572639 pts -> /nas/data/araake/scenefun3d/openscene/data/scannet_3d/train/scene0229_00.pth
+[DONE] scene0229_00
+[DONE] All tasks
