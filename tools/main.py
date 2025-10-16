@@ -183,7 +183,6 @@ def build_labels_from_annotations(N_full: int, anno_path: str) -> np.ndarray:
                     try: idxs = [int(x) for x in idxs.strip().split()]
                     except Exception: idxs = []
             idxs = np.asarray(idxs, dtype=np.int64)
-            # bound check against ORIGINAL length:
             if idxs.size and (idxs.max() >= N_full or idxs.min() < 0):
                 warn(f"indices out of range in annotations (max={int(idxs.max())}, N={N_full}); clipping")
                 idxs = idxs[(idxs >= 0) & (idxs < N_full)]
@@ -271,6 +270,9 @@ def update_scene_mapping(scene_name: str, split: str, visit: int, vid: int,
 
 # ---------- CORE ----------
 def process_single_scene(visit_id: int, video_id: int, scene_name: str, split: str):
+    if torch is None:
+        error("torch is required to write .pth files (numpy arrays inside). Please install PyTorch."); sys.exit(1)
+
     vdir  = os.path.join(INPUT_ROOT, str(visit_id))
     vscan = os.path.join(vdir, f"{visit_id}_laser_scan.ply")
     vmask = os.path.join(vdir, f"{visit_id}_crop_mask.npy")
@@ -330,7 +332,6 @@ def process_single_scene(visit_id: int, video_id: int, scene_name: str, split: s
         else:
             info("Intrinsics: per-frame (values vary)")
     else:
-        # fallback: still try per-frame
         v0 = load_intrinsics_per_key_fuzzy(intri_in, common_keys[0])
         if v0 is None:
             error(f"cannot load intrinsics (per-frame) in {intri_in}")
@@ -409,32 +410,28 @@ def process_single_scene(visit_id: int, video_id: int, scene_name: str, split: s
         rgb   = (rgb_full[mask] if rgb_full is not None else None)
         labels= labels_full[mask]
 
-    # ---------- save 3D (EXACT same tuple format) ----------
+    # ---------- save 3D (tuple of NumPy arrays) ----------
     out_3d_base = os.path.join(SCANNET_3D, split, f"{scene_name}")
     ensure_dir(os.path.dirname(out_3d_base))
 
     # features: RGB->[−1,1]（0-255 または 0-1 の双方に対応）
     feat = (np.zeros((coords.shape[0], 3), np.float32)
             if rgb is None
-            else ((rgb.astype(np.float32) / (255.0 if rgb.max() > 1.5 else 1.0)) * 2 - 1))
+            else ((rgb.astype(np.float32) / (255.0 if float(np.max(rgb)) > 1.5 else 1.0)) * 2 - 1))
 
-    tuple_obj = (
-        coords.astype(np.float32),   # (N,3)
-        feat.astype(np.float32),     # (N,3)
-        labels.astype(np.int32),     # (N,)
-    )
+    # === ここが肝心：NumPy で dtype を固定して .pth に保存 ===
+    coords_np = np.asarray(coords, dtype=np.float32)          # (N,3) float32
+    feat_np   = np.asarray(feat,   dtype=np.float32)          # (N,3) float32
+    labels_np = np.asarray(labels, dtype=np.uint8)            # (N,)  uint8  (IGNORE=255)
 
-    if torch is not None:
-        try:
-            torch.save(tuple_obj, out_3d_base + ".pth")
-            info(f"3D export: coords={coords.shape[0]} pts -> {out_3d_base+'.pth'} (tuple[np,np,np])")
-        except Exception as e:
-            error(f"failed to save .pth: {out_3d_base+'.pth'} ({e})")
-    else:
-        # フォールバック: .npz（内容は同じ配列）
-        np.savez_compressed(out_3d_base + ".npz",
-                            coords=tuple_obj[0], feat=tuple_obj[1], label=tuple_obj[2])
-        warn(f"torch not available; wrote {out_3d_base+'.npz'} instead of .pth")
+    tuple_obj = (coords_np, feat_np, labels_np)
+
+    try:
+        torch.save(tuple_obj, out_3d_base + ".pth")
+        info(f"3D export: coords={coords_np.shape[0]} pts -> {out_3d_base+'.pth'} (tuple[np,np,np])")
+    except Exception as e:
+        error(f"failed to save .pth: {out_3d_base+'.pth'} ({e})")
+        raise
 
     # splits & mapping
     append_split_file(scene_name, split)
